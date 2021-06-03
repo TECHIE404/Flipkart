@@ -1,0 +1,40 @@
+.section-one-wrapper{
+    max-height: 120px;
+    width: 500px;
+    border:1px solid #ddd;
+    display: flex;
+    overflow-y: auto;
+}
+.section-one-wrapper::-webkit-scrollbar{
+    width: 0;
+}
+.item{
+    width: 150px;
+    line-height: 100px;
+    height: 100px;
+    line-height: 110px;
+    text-align: center;
+    background-color: #ddd;
+}
+.CardName{
+    font-family:'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.CardPrice,.CardDesc{
+    margin-top: 2px;
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+  
+}
+.CardPrice{
+    color: #388e3c;
+    font-size: 14px;
+    
+}
+.CardDesc{
+    font-size: 13px;
+    opacity: 0.6;
+}

@@ -1,0 +1,47 @@
+.comp_two>img{
+    width: 20px ;
+    object-fit: contain;
+    margin-right: 10px;
+    
+}
+.comp_two{
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+.comp_two>span{
+    color: black;
+   
+    
+}
+.comp_one{
+    background-color: white;
+    color: black;
+    margin: 20px;
+}
+.spanone{
+    font-weight: bolder;
+   font-size: 14px;
+   align-items: left;
+   margin-left: 10px;
+   margin-right: 20px;
+}
+.spantwo{
+  
+  font-size: 14px;
+  font-weight: bolder;
+  align-items: right;
+  color: #2874F0;
+  margin: 10px;
+}
+.logint>hr{
+    color: rgb(197, 189, 189);
+    height: 0.2px;
+    border: 1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.logint{
+    font-family: 'Roboto',sans-serif;
+}

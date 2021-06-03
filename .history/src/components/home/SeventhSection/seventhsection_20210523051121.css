@@ -1,0 +1,7 @@
+.deals,.section-one{
+    display: flex;
+}
+.imageCardlist{
+    display: flex;
+    font-family: 'Roboto',sans-serif;
+}

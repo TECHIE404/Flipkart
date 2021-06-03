@@ -1,0 +1,9 @@
+.row{
+    width: 1400px;
+    display: flex;
+    font-family: sans-serif;
+    background-color: white;
+}
+.col-3{
+    width: 2000px;
+}

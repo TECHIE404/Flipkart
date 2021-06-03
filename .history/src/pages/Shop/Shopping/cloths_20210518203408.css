@@ -1,0 +1,5 @@
+.row{
+    width: 1400px;
+    display: flex;
+    background-color: white;
+}

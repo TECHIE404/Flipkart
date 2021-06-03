@@ -1,0 +1,10 @@
+.row{
+    width: 1400px;
+    display: flex;
+    font-family: sans-serif;
+    align-items: center;
+    background-color: white;
+}
+.col-3{
+    width: 6000px;
+}

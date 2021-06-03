@@ -1,0 +1,14 @@
+.second-nav{
+    height: 40px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: disc;
+    margin-bottom: 0px;
+    font-size: 13px;
+
+    
+}

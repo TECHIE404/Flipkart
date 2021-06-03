@@ -1,0 +1,29 @@
+.statement{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: white;
+    margin-top: 18px;
+    
+}
+.statement>span{
+    text-align: left;
+    color: #212121;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+.icon{
+    color: #2874F0;
+    margin-right: 10px;
+    size: 10;
+    align-items: center;
+    
+    
+}
+.hrline{
+    opacity: 0.3;
+    background-color: white;
+    color: white;
+}

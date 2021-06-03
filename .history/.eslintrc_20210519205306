@@ -1,0 +1,9 @@
+{
+    "extends":["react-app","prettier"],
+    "rules":{
+        "prettier/prettier":[
+            
+        ]
+    },
+    "plugins": ["prettier"]
+}

@@ -1,0 +1,29 @@
+.img{
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+
+}
+.ProductName{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.index{
+    height: 250px;
+    width: 195px;
+    margin: 10px;
+    background-color: white;
+}
+.Price{
+    font-size: 15px;
+    color: #388e3c;
+
+}
+.ProductDesc{
+    font-size: 13px;
+    opacity: 0.6;
+}
+.ProductName,.Price,.ProductDesc{
+    font-family: 'Roboto',sans-serif;
+}

@@ -1,0 +1,15 @@
+.dataname{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.dataprice{
+    font-size: 15px;
+    color: #388e3c;
+    font-weight: bold;
+    
+}
+.datadesc{
+    font-size: 13px;
+    opacity: 0.6;
+}

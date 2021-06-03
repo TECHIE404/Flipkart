@@ -1,0 +1,9 @@
+.section-one-wrapper{
+    max-height: 120px;
+    border:1px solid #ddd;
+}
+.item{
+    width: 110px;
+    height: 110px;
+    line-height: 110px;
+}

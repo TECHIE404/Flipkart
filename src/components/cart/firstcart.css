@@ -1,0 +1,21 @@
+.layer1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cart_header_background{
+    margin-left: 5%;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 50%;
+    margin-top: 2%;
+    
+}
+.cart_product_price_background{
+    background-color: white;
+    margin-top:8%;
+    margin-left: 20px;
+    width: 150%;
+}

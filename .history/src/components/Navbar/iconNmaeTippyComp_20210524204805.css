@@ -1,0 +1,16 @@
+.statement{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: white;
+    
+}
+.statement>span{
+    color: black;
+    font-size: 14px;
+    
+}
+.icon{
+    color: #2874F0;
+    margin-right: 10px;
+}

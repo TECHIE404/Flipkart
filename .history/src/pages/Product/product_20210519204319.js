@@ -1,0 +1,20 @@
+import React from 'react';
+import DataProduct from './fetchproduct';
+import Footer from '../../components/footer/index';
+import SecondNav from '../../components/Navbar/Second_navbar/secondnav';
+
+
+function ProductPage({match}){
+    // console.log(match)
+    let id = match.params.id
+    return(
+        <div style={{backgroundColor:'white'}}>
+            <SecondNav />
+            <DataProduct id={id} />
+            <Footer />
+        </div>
+    )
+}
+
+
+export default ProductPage

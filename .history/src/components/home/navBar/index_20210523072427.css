@@ -1,0 +1,18 @@
+.NavBar{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.normalCardTitle{
+    font-family: 'Roboto',sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+.normalCard{
+    margin-Top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}

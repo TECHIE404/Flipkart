@@ -1,0 +1,12 @@
+.ninthsection{
+        /* display: "flex",
+        max-Width:"1250px",
+        over-Flow: "auto",  
+         */
+         display: flex;
+         width: 1400px;
+         overflow-x: auto;
+      }
+.ninthsection::-webkit-scrollbar{
+    display: none;
+}

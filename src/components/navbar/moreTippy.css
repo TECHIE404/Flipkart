@@ -1,0 +1,17 @@
+.moret{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    font-family: Roboto,Arial,sans-serif;
+    width: fit-content;
+    line-height: 25px;
+}
+.moret>hr{
+    color: rgb(197, 189, 189);
+    height: 0.1px;
+    border: 1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+    
+}

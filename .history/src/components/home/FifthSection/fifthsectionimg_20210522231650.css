@@ -1,0 +1,9 @@
+.productName{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.productPrice{
+    font-family:'Roboto', sans-serif ;
+    color: #388e3c;
+    font-weight: bold;
+}

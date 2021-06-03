@@ -1,0 +1,28 @@
+.slider{
+    width: 1330px;
+    display: flex;
+    padding: 0px;
+    margin: 10px;
+    height: 200px;
+    background-position: center;
+    align-content: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://rukminim1.flixcart.com/flap/844/140/image/9d86c78ccdb70839.jpg?q=50");
+
+}
+.LeftArrow,.RightArrow{
+    height: 100px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.849);
+    border-radius: 10px;
+    margin-top: 3%;
+    opacity: 0.8;
+}
+.LeftArrow{
+    margin-right:45% ;
+}
+.RightArrow{
+    margin-left:45% ;
+}

@@ -1,0 +1,17 @@
+.first-ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    
+}
+ul{
+    list-style-type: none;
+}
+.shopProduct{
+    background-color: white;
+    width: 1000px;
+    height: 100%;
+    display: flex;
+
+}

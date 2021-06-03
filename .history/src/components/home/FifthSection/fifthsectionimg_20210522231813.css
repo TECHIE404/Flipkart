@@ -1,0 +1,11 @@
+.productName{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.proudctPrice{
+    font-family:'Roboto', sans-serif ;
+    color: #388e3c;
+    font-weight: light;
+    padding-top: 8px;
+    text-align: center;
+}

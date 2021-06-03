@@ -1,0 +1,20 @@
+.Email{
+    width: 300px;
+    margin-left: 40px;
+    margin-right: 30px;
+    color: #878787;
+    font-weight: bold;
+}
+.password{
+    width: 300px;
+    margin-left: 40px;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+.termsOfuse{
+    display: flex;
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: 40px;
+    color:#878787;
+}

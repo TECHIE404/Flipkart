@@ -1,0 +1,18 @@
+.dataname{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.dataprice{
+    font-size: 15px;
+    color: #388e3c;
+    
+    
+}
+.datadesc{
+    font-size: 13px;
+    opacity: 0.6;
+}
+.datadesc,.dataname,.dataprice{
+    font-family: 'Roboto',sans-serif;
+}

@@ -1,0 +1,39 @@
+.img{
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    height: "150px";
+    width: "150px";
+    background-color: "white";
+    justify-content: "center";
+    align-content: "center";
+
+}
+.ProductName{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    color: #272727;
+}
+.index{
+    height: 250px;
+    width: 195px;
+    margin: 10px;
+    background-color: white;
+}
+.Price{
+    font-size: 15px;
+    color: #388e3c;
+    margin-top: 10px;
+
+}
+.ProductDesc{
+    font-size: 13px;
+    opacity: 0.8;
+    margin-top: 10px;
+    color: #272727;
+}
+.ProductName,.Price,.ProductDesc{
+    font-family: 'Roboto',sans-serif;
+}

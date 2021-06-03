@@ -1,0 +1,7 @@
+.row{
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    font-family: sans-serif;
+}

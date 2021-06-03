@@ -1,0 +1,23 @@
+.img{
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+}
+.ProductName{
+    text-align: center;
+}
+.index{
+    height: 250px;
+    width: 195px;
+    margin: 10px;
+    background-color: white;
+}
+.Price{
+
+}
+.ProductDesc{
+    opacity: 0.8;
+}
+.ProductName,.Price,.ProductDesc{
+    font-family: 'Roboto',sans-serif;
+}

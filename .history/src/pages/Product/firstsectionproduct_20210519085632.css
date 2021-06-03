@@ -1,0 +1,30 @@
+.specify-ul>li{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.specify-ul,.product_details,.rating_review,.r_r{
+    display: flex;
+}
+.product_details>h3{
+    margin-left: 60%;
+
+}
+.r_rp2{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 90px;
+}
+.rating_review>p>button{
+    background-color: blueviolet;
+    height: 40px;
+    width: 140px;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
+.star{
+    height: 40px;
+    width: 90px;
+    border-radius: 30%;
+    background-color:rgb(38, 165, 65) ;
+}

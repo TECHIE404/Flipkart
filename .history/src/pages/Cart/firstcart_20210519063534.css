@@ -1,0 +1,10 @@
+.layer1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    background-color: white;
+}
+.cart_header{
+    
+}

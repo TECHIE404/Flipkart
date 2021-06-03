@@ -1,0 +1,17 @@
+.deals,.section-one{
+    display: flex;
+}
+.imageCardlist{
+    display: flex;
+    font-family: 'Roboto',sans-serif;
+}
+.dataName{
+    font-size: 18px;
+
+}
+.dataPrice{
+
+}
+.dataDesc{
+
+}

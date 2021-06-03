@@ -1,0 +1,12 @@
+.img{
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+}
+.ProductName{
+    text-align: center;
+}
+.index{
+    height: 100px;
+    width: 100px;
+}

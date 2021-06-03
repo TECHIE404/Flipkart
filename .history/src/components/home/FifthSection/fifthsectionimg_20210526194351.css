@@ -1,0 +1,59 @@
+.productName{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+.proudctPrice{
+    font-family:'Roboto', sans-serif ;
+    color: #388e3c;
+    font-weight: light;
+    margin-top: 10px;
+    text-align: center;
+}
+.productDesc{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    opacity: 0.6;
+}
+.viewAll{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color:rgb(40,116,240) ;
+    height: 50px;
+    width: 100px;
+    margin: 5px;
+    margin-left: 60px;
+    justify-content: center;
+    align-content: center;
+    font-weight: bold;
+    color: white;
+  
+}
+.deals{
+    font-family: 'Roboto', sans-serif;
+}
+.rightArrow,.leftArrow{
+    height: 100px;
+    margin-top: 80px;
+    width: 50px;
+    padding-top: 30px;
+    background-color: yellow;
+    align-content: center;
+    justify-content: center;
+}
+
+.list{
+    overflow-x: auto;
+    max-height: 800px;
+    display: flex;
+    scroll-behavior: auto;
+}
+.item{
+    display: flex;
+    height: 500px;
+    background-color: white;
+    width: 1100px;
+    overflow-x: auto;
+    scroll-behavior: auto;
+}

@@ -1,0 +1,48 @@
+.specify-ul>li{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.specify-ul,.product_details,.rating_review,.r_r,.post_question,.comment_side,.likes{
+    display: flex;
+}
+.product_details>h3{
+    margin-left: 60%;
+
+}
+.r_rp2{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 90px;
+}
+.rating_review>p>button{
+    background-color: blueviolet;
+    height: 40px;
+    width: 140px;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
+.star{
+    height: 40px;
+    width: 80px;
+    border-radius: 45%;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color:rgb(38, 165, 65) ;
+}
+.comment_side{
+    text-align: left;
+}
+.likes{
+    margin-left: 50%;
+}
+.postQuestion{
+    height: 50px;
+    width: 160px;
+    background-color: #2874F0 ;
+    margin-left: 100%;
+    color: white;
+    font-size: small;
+    font-weight: bold;
+}

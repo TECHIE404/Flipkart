@@ -1,0 +1,10 @@
+.first-ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    
+}
+.first-ul>ul{
+    list-style-type: none;
+}

@@ -1,0 +1,43 @@
+.col-3{
+    display: flex;
+    width: 270px;
+    
+    font-family: 'Roboto',Arial, sans-serif;
+
+}
+.col-3>ul{
+    list-style-type: none;
+}
+.shop-part-one{
+    width:800px;
+    margin-right: 20px;
+    
+    background-color: white;
+}
+
+.genderFirstSection{
+    width: 60px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 8px;
+    margin: 3px;
+    font-size: 12px;
+    cursor: pointer;
+    background-color: #e0e0e0;
+}
+.twoFirstSection,.oneFirstSection{
+    display: flex;
+}
+.firstSection{
+    margin: 10px;
+}
+.titleFirstSection{
+   color: #272727;
+   font-family: 'Roboto',sans-serif;
+   font-size: 18px;
+}
+.clearAll{
+    text-align: right;
+}

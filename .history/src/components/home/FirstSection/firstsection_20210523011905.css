@@ -1,0 +1,14 @@
+.section-one-wrapper{
+    max-height: 120px;
+    border:1px solid #ddd;
+    display: flex;
+}
+.item{
+    width: 60px;
+    justify-content: center;
+    height: 60px;
+    line-height: 110px;
+    text-align: center;
+    justify-items: center;
+    background-color: #ddd;
+}

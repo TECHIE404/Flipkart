@@ -1,0 +1,13 @@
+.img{
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+}
+.ProductName{
+    text-align: center;
+}
+.index{
+    height: 287px;
+    width: 195px;
+    background-color: burlywood;
+}

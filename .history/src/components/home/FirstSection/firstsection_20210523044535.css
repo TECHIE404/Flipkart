@@ -1,0 +1,21 @@
+.section-one-wrapper{
+    max-height: 120px;
+    width: 500px;
+    border:1px solid #ddd;
+    display: flex;
+    overflow-y: auto;
+}
+.section-one-wrapper::-webkit-scrollbar{
+    width: 0;
+}
+.item{
+    width: 150px;
+    line-height: 100px;
+    height: 100px;
+    line-height: 110px;
+    text-align: center;
+    background-color: #ddd;
+}
+.CardName{
+    font-family:'Roboto', sans-serif;
+}

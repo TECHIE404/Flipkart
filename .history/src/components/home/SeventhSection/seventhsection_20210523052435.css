@@ -1,0 +1,35 @@
+.deals,.section-one{
+    display: flex;
+}
+.imageCardlist{
+    display: flex;
+    font-family: 'Roboto',sans-serif;
+}
+.dataName{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.dataPrice{
+    font-size: 15px;
+    color: #388e3c;
+    
+}
+.dataDesc{
+    font-size: 13px;
+    opacity: 0.6;
+}
+.LeftArrow,.RightArrow{
+    height: 100px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.575);
+    border-radius: 10px;
+    margin-top: 80%;
+    opacity: 0.8;
+}
+.LeftArrow{
+    margin-right:45% ;
+}
+.RightArrow{
+    margin-left:45% ;
+}

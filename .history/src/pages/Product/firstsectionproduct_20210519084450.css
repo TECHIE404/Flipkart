@@ -1,0 +1,11 @@
+.specify-ul>li{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.specify-ul,.product_details{
+    display: flex;
+}
+.product_details>h3{
+    text-align: right;
+
+}

@@ -1,0 +1,11 @@
+.layer1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.cart_header_background{
+    align-items: center;
+    align-content: center;
+    
+}

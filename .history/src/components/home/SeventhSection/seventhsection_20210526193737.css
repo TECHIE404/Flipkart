@@ -1,0 +1,40 @@
+.deals,.section-one{
+    display: flex;
+    margin-left: 10px;
+}
+.imageCardlist{
+    display: flex;
+    font-family: 'Roboto',sans-serif;
+}
+.dataName{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.dataPrice{
+    font-size: 15px;
+    color: #388e3c;
+}
+.dataDesc{
+    font-size: 13px;
+    opacity: 0.6;
+}
+.leftArrow,.rightArrow{
+    font-family: 'Roboto',sans-serif;
+    height: 100px;
+    width: 40px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 50%;
+    opacity: 0.8;
+    color: #272727;
+    border: 0;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.LeftArrow{
+    margin-right:45% ;
+}
+.RightArrow{
+    margin-left:45% ;
+}

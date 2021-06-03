@@ -1,0 +1,61 @@
+.col-3{
+    display: flex;
+    width: 300px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.col-3>ul{
+    list-style-type: none;
+}
+.shop-part-one{
+    width:800px;
+    background-color: white;
+}
+
+.genderFirstSection{
+    width: 60px;
+    height: 35px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 8px;
+    margin: 3px;
+    font-size: 12px;
+    cursor: pointer;
+    background-color: #e0e0e0;
+}
+.twoFirstSection,.oneFirstSection{
+    display: flex;
+}
+.firstSection{
+    margin: 10px;
+}
+.twoFirstSection{
+    margin-left: 20px;
+}
+.titleFirstSection{
+   color: #272727;
+   font-family: 'Roboto',sans-serif;
+   font-size: 20px;
+   margin-right: 50%;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   font-weight: bolder;
+}
+.clearAll{
+    color:#2874f0;
+    font-size: 12px;
+    cursor: pointer;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.categoryTitle{
+    font-family: 'Roboto', monospace;
+    text-align: left;
+    margin: 10px;
+}
+.itemList{
+    margin: 10px;
+}
